@@ -3,8 +3,9 @@
 I build things across many domains: PHP libraries, Verilog circuits, simulators for old electronics kits, retro games, and many more! This is just a snap shot of what I have done.
 
 #### 🐘 PHP
+- **[GeekLab-GLRoute](https://github.com/ellisgl/GLRoute)**: Yet another PHP router (PHP 8.3+)
 - **[GeekLab-GLPDO2](https://github.com/ellisgl/GeekLab-GLPDO2)**: a PDO wrapper for easy, correct bindings (PHP 8.1+)
-- **[GeekLab-Conf](https://github.com/ellisgl/GeekLab-Conf)**: a configuration system for PHP 8.1+
+- **[GeekLab-Conf](https://github.com/ellisgl/GeekLab-Conf)**: a configuration system (PHP 8.1+)
 
 #### 🕹️ Simulators & Games
 - **[SAP-1-CPU](https://github.com/ellisgl/SAP-1-CPU)**: a SAP-1 style CPU and computer simulator in HTML and JavaScript
