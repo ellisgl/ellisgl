@@ -14,14 +14,15 @@ I build things across many domains: PHP libraries, Verilog circuits, simulators 
 - **[game](https://github.com/ellisgl/game)**: "The Game" for the NES, in 6502 assembly
 
 #### Rust
-- **[MewtureButton Host](https://github.com/ellisgl/MewtureButton-Host)**: "Driver" using the DDAA (Ding Ding Ack Ack) protocol
+- **[MewtureButton Host](https://github.com/ellisgl/MewtureButton-Host)**: Host software using the DDAA (Ding Ding Ack Ack) protocol
 - **[rust-e-sim](https://github.com/ellisgl/rust-e-sim)**: an electronics simulation library in Rust, built for WASM
 
 #### 🔌 Hardware & FPGA
 - **[sap-1-v2-mojo](https://github.com/ellisgl/sap-1-v2-mojo)**: an improved SAP-1 CPU in Verilog for the Mojo FPGA board, with a separate address bus
+- **[DM16](https://github.com/ellisgl/DM16)**: A small massively parallel computer, kind of like the CM-1/CM-2 supercomputer.
 - **[65c02-dcim](https://github.com/ellisgl/65c02-dcim)**: a 65C02 CPU with a compute-in-memory zero page, plus a Tang Nano 20K DVI demo
 - **[spartan6-toolchain](https://github.com/ellisgl/spartan6-toolchain)**: an open toolchain for Spartan-6 FPGAs
 - **[915-mesh-antenna](https://github.com/ellisgl/915-mesh-antenna)**: a 915 MHz ISM antenna tuned for MeshCore
 
 #### 🧰 Tools I use
-Verilog · TypeScript / Bun · PHP · Rust · JavaScript · 6502 Assembly · C++ · C#
+PHP · TypeScript / Bun · JavaScript · C++ · C# · Pyhton · Rust · Verilog
