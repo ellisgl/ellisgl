@@ -25,4 +25,4 @@ I build things across many domains: PHP libraries, Verilog circuits, simulators 
 - **[915-mesh-antenna](https://github.com/ellisgl/915-mesh-antenna)**: a 915 MHz ISM antenna tuned for MeshCore
 
 #### 🧰 Tools I use
-PHP · TypeScript / Bun · JavaScript · C++ · C# · Pyhton · Rust · Verilog
+PHP · TypeScript / Bun · JavaScript · Pyhton · C++ · C#  · Rust · Verilog
