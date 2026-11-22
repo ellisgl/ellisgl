@@ -20,6 +20,7 @@ I build things across many domains: PHP libraries, Verilog circuits, simulators 
 #### 🔌 Hardware & FPGA
 - **[sap-1-v2-mojo](https://github.com/ellisgl/sap-1-v2-mojo)**: An improved SAP-1 CPU in Verilog for the Mojo FPGA board, with a separate address bus.
 - **[DM16](https://github.com/ellisgl/DM16)**: A small massively parallel computer, kind of like the CM-1/CM-2 supercomputer.
+- **[EG-1022N](https://github.com/ellisgl/EG-1022N)**: A BJT NPN transistor, who's layout resembles it's electronics symbol.
 - **[65c02-dcim](https://github.com/ellisgl/65c02-dcim)**: A 65C02 CPU with a compute-in-memory zero page, plus a Tang Nano 20K DVI demo.
 - **[spartan6-toolchain](https://github.com/ellisgl/spartan6-toolchain)**: An open toolchain for Spartan-6 FPGAs.
 - **[915-mesh-antenna](https://github.com/ellisgl/915-mesh-antenna)**: A 915 MHz ISM antenna tuned for MeshCore.
