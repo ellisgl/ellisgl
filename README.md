@@ -10,7 +10,7 @@ I build things across many domains: PHP libraries, Verilog circuits, simulators 
 #### 🕹️ Simulators & Games
 - **[SAP-1-CPU](https://github.com/ellisgl/SAP-1-CPU)**: A SAP-1 style CPU and computer simulator in HTML and JavaScript.
 - **[virtual_65-in-1_28-250](https://github.com/ellisgl/virtual_65-in-1_28-250)**: the RadioShack 65-in-1 electronics kit, in the browser.
-- **[FQ2TS](https://github.com/ellisgl/FQ2TS)**: Final Quest 2, the QBASIC RPG, rewritten in TypeScript with multiplayer over the web.
+- **[Final Quest 2](https://github.com/ellisgl/final-quest-2)**: Final Quest 2, the QBASIC RPG, rewritten in TypeScript with multiplayer over the web.
 - **[game](https://github.com/ellisgl/game)**: "The Game" for the NES, in 6502 assembly.
 
 #### Rust
@@ -20,10 +20,10 @@ I build things across many domains: PHP libraries, Verilog circuits, simulators 
 #### 🔌 Hardware & FPGA
 - **[sap-1-v2-mojo](https://github.com/ellisgl/sap-1-v2-mojo)**: An improved SAP-1 CPU in Verilog for the Mojo FPGA board, with a separate address bus.
 - **[DM16](https://github.com/ellisgl/DM16)**: A small massively parallel computer, kind of like the CM-1/CM-2 supercomputer.
-- **[EG-1022N](https://github.com/ellisgl/EG-1022N)**: A BJT NPN transistor, who's layout resembles it's electronics symbol.
+- **[EG-1022N](https://github.com/ellisgl/EG-1022N)**: A BJT NPN transistor, whose layout resembles it's electronics symbol.
 - **[65c02-dcim](https://github.com/ellisgl/65c02-dcim)**: A 65C02 CPU with a compute-in-memory zero page, plus a Tang Nano 20K DVI demo.
 - **[spartan6-toolchain](https://github.com/ellisgl/spartan6-toolchain)**: An open toolchain for Spartan-6 FPGAs.
 - **[915-mesh-antenna](https://github.com/ellisgl/915-mesh-antenna)**: A 915 MHz ISM antenna tuned for MeshCore.
 
 #### 🧰 Tools I use
-PHP · TypeScript / Bun · JavaScript · Pyhton · C++ · C#  · Rust · Verilog
+PHP · TypeScript / Bun · JavaScript · Python · C++ · C#  · Rust · Verilog
