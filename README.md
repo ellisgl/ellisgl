@@ -21,7 +21,8 @@ I like understanding things from the logic gates up.
 - **[SAP-1-CPU](https://github.com/ellisgl/SAP-1-CPU)**: a SAP-1 CPU simulator in JavaScript ([▶ try it](https://ellisgl.github.io/SAP-1-CPU/)), and the [same CPU in Verilog](https://github.com/ellisgl/sap-1-v2-mojo) on an FPGA
 - **[Virtual 65-in-1](https://github.com/ellisgl/virtual_65-in-1_28-250)**: the RadioShack 65-in-1 electronics kit in the browser ([▶ try it](https://ellisgl.github.io/virtual_65-in-1_28-250/))
 - **[Final Quest 2](https://github.com/ellisgl/final-quest-2)**: a QBASIC RPG rewritten in TypeScript, with web multiplayer ([▶ play](https://finalquest2.wisp.uno/))
-- **[EG-1022N](https://github.com/ellisgl/EG-1022N)**: a BJT transistor whose chip layout looks like its own schematic symbol
+- **[EG-1022N](https://github.com/ellisgl/EG-1022N)**: a BJT transistor whose chip layout looks like its own schematic symbol ([PNP version](https://github.com/ellisgl/EG-1022P)
+- **[EG-LOGIC](https://github.com/ellisgl/EG-LOGIC)**: CMOS logic gates for Magic VLSI laid out as their ANSI symbols
 - **[915-mesh-antenna](https://github.com/ellisgl/915-mesh-antenna)**: a 915 MHz antenna tuned for MeshCore
 
 Plus Rust, Verilog, C++ and 6502 assembly. See [all my repos](https://github.com/ellisgl?tab=repositories).
